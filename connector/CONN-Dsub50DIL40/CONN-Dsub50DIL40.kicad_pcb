@@ -1879,6 +1879,18 @@
 		(layer "Edge.Cuts")
 		(uuid "470f02ac-bb0b-41c1-92c9-2e40b78d43f4")
 	)
+	(gr_text "CONN-Dsub50DIL40\nLucas Darroch\nBrunner Neutrino Lab"
+		(at 182.16 102.97 0)
+		(layer "B.SilkS")
+		(uuid "d7b05475-f10e-46ce-bd18-5551593f7d3f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 148.4 102.98)
 		(end 148.4 81.97)
